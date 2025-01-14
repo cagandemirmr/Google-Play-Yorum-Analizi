@@ -38,7 +38,7 @@ Bu proje, Google Play Store uygulamalarına yönelik kullanıcı yorumlarını a
 - Veri setinde en yararlı yorumlar tespit edildi.
 - Erkek kullanıcıların daha fazla olumsuz yorumlar yaparken kadın kullanıcıların daha az puan verdiği gözlenmiştir.
 - Yorumların ve puanlar arasındaki ilişki incelendi ve zaman serisine göre incelendi.
-
+- Daha fazla ayrıntı için [https://public.tableau.com/app/profile/.a.an.demir/viz/GooglePlay_17367970593720/Dashboard1?publish=yes]
 
 ## Notlar
 - Kodda kullanılan bazı işlemler, veri setine özgüdür ve farklı veri kümelerine uygulanmadan önce uyarlanması gerekebilir.
